@@ -1,5 +1,5 @@
 // Write your code here!
-et main = document.querySelector('main#main')
+let main = document.querySelector('main#main')
 
 main.remove()
 
